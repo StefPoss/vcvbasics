@@ -38,7 +38,7 @@ Voici comment le projet est organisé :
 ### Cloner le dépôt
 Pour récupérer les fichiers du projet :
 \```bash
-git clone https://github.com/stefposs/vcv-basics.git
+git clone https://github.com/stefposs/vcvbasics.git
 cd vcv-basics
 \```
 
