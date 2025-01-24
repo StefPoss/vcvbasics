@@ -37,7 +37,7 @@ VCV-Basics/
 ### Cloner le dépôt
 Pour récupérer les fichiers du projet :
 \```bash
-git clone https://github.com/ton-username/vcv-basics.git
+git clone https://github.com/stefposs/vcv-basics.git
 cd vcv-basics
 \```
 
@@ -77,7 +77,7 @@ Un site web est en préparation et contiendra :
 
 ## 📬 Contact
 
-Pour toute question ou suggestion, n’hésitez pas à me contacter via [Threads](#) ou à créer une issue sur ce dépôt.
+Pour toute question ou suggestion, n’hésitez pas à me contacter via [Threads](https://www.threads.net/@lepossam) ou à créer une issue sur ce dépôt.
 
 ---
 
