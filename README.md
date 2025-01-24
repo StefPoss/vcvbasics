@@ -15,20 +15,21 @@ Bienvenue sur **VCV Basics**, un projet dédié à l’apprentissage des bases d
 ## 📂 Structure du projet
 
 \```
-VCV-Basics/
-├── patches/                # Fichiers .vcv des patches
-│   ├── basics/             # Patches pour apprendre les bases (oscillateurs, filtres, etc.)
-│   ├── rhythms/            # Patches rythmiques simples
-│   └── textures/           # Patches pour créer des ambiances
-├── assets/                 # Images et captures d’écran
-├── docs/                   # Guides pédagogiques
-│   ├── 01-introduction.md  # Introduction à VCV Rack
-│   ├── 02-oscilators.md    # Guide sur les oscillateurs
-│   └── ...
-├── site/                   # Fichiers pour le site web
-├── README.md               # Ce fichier
-└── LICENSE                 # Licence
-\```
+## 📂 Structure du projet
+
+Voici comment le projet est organisé :
+
+- **`patches/`** : Contient les fichiers `.vcv` organisés en trois sous-dossiers :
+  - **`basics/`** : Patches pour apprendre les bases (oscillateurs, filtres, enveloppes, etc.).
+  - **`rhythms/`** : Patches rythmiques simples.
+  - **`textures/`** : Patches pour créer des ambiances sonores.
+- **`assets/`** : Images, captures d’écran et démos audio.
+- **`docs/`** : Guides pédagogiques écrits en Markdown :
+  - `01-introduction.md` : Introduction à VCV Rack.
+  - `02-oscillators.md` : Guide sur les oscillateurs.
+- **`site/`** : Fichiers pour le site web.
+- **`README.md`** : Ce fichier.
+- **`LICENSE`** : Fichier de licence.
 
 ---
 
